@@ -1,6 +1,6 @@
 # 🧭 AI Pathfinder — Uninformed Search Visualizer
 
-> **Question 7 · Artificial Intelligence Assignment**
+> **Artificial Intelligence Assignment**
 > Visualize six blind search algorithms navigating a grid maze step-by-step in real time.
 
 ---
